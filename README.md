@@ -4,11 +4,11 @@
 
 This project performs a descriptive and statistical analysis of the **Abalone dataset** from the UCI Machine Learning Repository. The main focus of the analysis is to explore the physical characteristics of abalones, especially the relationship between **Length** and **Whole Weight**.
 
-The project was completed as part of the **Business Intelligence Workplace Project 1** assignment. The notebook includes data exploration, descriptive statistics, visualizations, outlier detection, data transformation, regression modeling, and residual analysis.
+The project was completed as part of the **Business Intelligence Workplace Project 1** assignment. The notebook includes data exploration, descriptive statistics, visualizations, outlier detection, data transformation, regression modeling and residual analysis.
 
 ## Assignment Objective
 
-The main objective of the assignment is to analyze the Abalone dataset and explain the behavior of the data using graphs, statistical measures, and conclusions.
+The main objective of the assignment is to analyze the Abalone dataset and explain the behavior of the data using graphs, statistical measures and conclusions.
 
 The required analysis includes:
 
